@@ -8,7 +8,6 @@ A PHP application to show Covid-19 data from API.
 
 ## 🛠️ Features of Covid-Tracker:
 
-### A. Admin Users [HOD] Can
 1. See Overall Data  of Covid-19 Confirmed Cases, Active Cases, Recovered Cases,Death.
 2. Conatin  data of all States and Uninon Territory
 
